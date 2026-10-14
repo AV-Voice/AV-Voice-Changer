@@ -2,7 +2,7 @@
 
 AV Voice Changer is the Windows voice morpher in the AV Voice line.
 
-![Banner Placeholder](giu/AV-Voice-1.jpg)
+![Banner Placeholder](gui/AV-Voice-1.jpg)
 
 You speak into a microphone. The program shifts pitch and timbre, then hands the result to a virtual audio driver.
 
@@ -34,7 +34,7 @@ The editor inside the program can cut, split, copy, and record a track.
 
 The main window is a voice picker, a morph stack, and a pad of background sounds.
 
-![Grid Placeholder](giu/AV-Voice-2.jpg)
+![Grid Placeholder](gui/AV-Voice-2.jpg)
 
 The grid is the part you glance at during a call. One row is the voice. The next row is the bed under it.
 
@@ -72,7 +72,7 @@ Set the physical microphone as the AV Voice input.
 
 Set Discord, Skype, Viber, or the game to the virtual audio driver as its microphone.
 
-![Editor Placeholder](giu/AV-Voice-3.jpg)
+![Editor Placeholder](gui/AV-Voice-3.jpg)
 
 Speak a normal sentence and watch the meter. If the room is silent, the wrong device is selected.
 
