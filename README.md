@@ -2,7 +2,7 @@
 
 AV Voice Changer is the Windows voice morpher in the AV Voice line.
 
-![Banner Placeholder](gui/AV-Voice-1.jpg)
+![Banner Placeholder](gui/AV Voice 1.jpg)
 
 You speak into a microphone. The program shifts pitch and timbre, then hands the result to a virtual audio driver.
 
